@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
