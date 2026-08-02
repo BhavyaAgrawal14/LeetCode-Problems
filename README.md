@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -184,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhavyaAgrawal14/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
